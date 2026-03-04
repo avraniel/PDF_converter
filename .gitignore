@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Configuration
+proconvert_config.json
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Test files
+test/
+tests/
+*.test.py
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Executables
+*.exe
+*.msi
+*.dmg
